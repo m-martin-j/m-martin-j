@@ -8,5 +8,5 @@ Recent leisure projects
 * learning some front-end-related disciplines
 
 <p align="center">
-    <img src="img/1553834524581_cr.jpg" width=75>
+    <img src="img/1553834524581_cr.jpg" width=105>
 </p>
